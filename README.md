@@ -10,3 +10,5 @@ puis aller dans bot.js
 et vous metter votre TOKEN , PREFIXE et l'Activité
 
 vous pouvez aussi changer les émojis dans Bot.js
+
+et n'oubliez pas de télécharger l'archive 
